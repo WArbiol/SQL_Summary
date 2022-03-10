@@ -370,3 +370,6 @@ JOIN customers
 - **UNION** stacks one dataset on top of another.
 
 - **WITH** allows us to **define one or more temporary tables** that can **be used** in the final query.
+
+## Summary of joins:
+![](img.png)
